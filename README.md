@@ -2,7 +2,7 @@
 
 ## 
 
-## EX 25
+## EX 27
 
 
 
@@ -12,5 +12,11 @@ It demonstrates repository creation, cloning, editing, and pushing changes.
 
 
 
-*This line was added as part of the Git clone and edit practical.*
+This line was added as part of the Git clone and edit practical.
+
+
+
+*This README file was updated as part of the Git commit and push practical.*
+
+
 
